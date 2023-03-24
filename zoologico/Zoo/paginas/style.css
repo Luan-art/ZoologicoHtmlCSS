@@ -1,0 +1,94 @@
+/* Frame 1 */
+
+body{
+    position: relative;
+
+    background: #6A935F;
+
+
+}
+
+
+
+.cabecalho{
+
+    box-sizing: border-box;
+    left: 10px;
+    top: 1px;
+    background: #18CA4A;
+    border: 1px solid #000000;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0);
+
+}
+
+h1{
+    width: 1174px;
+    height: 100px;
+
+    font-family: 'Fauna One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+    letter-spacing: 0.1em;
+
+    color: #000000;
+
+}
+
+
+.paginaPropaganda {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    background: #0CD380;
+
+  }
+
+
+
+h2{
+
+    width: 180px;
+    height: 60px;
+    left: 40px ;
+    top: 40px;
+
+    font-family: 'Fauna One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: right;
+    letter-spacing: 1   em;
+
+    color: #FFFFFF;
+
+}
+
+.fotos{
+
+    width: 383px;
+    height: 179px;
+    box-sizing: border-box;
+    padding: 5px    ;
+
+}
+
+
+
+
+.seta{
+
+    width: 150px;
+    height: 150px;
+    left: 605px;
+    top: 501px;
+
+    background: url(sete.jpg);
+
+
+}
